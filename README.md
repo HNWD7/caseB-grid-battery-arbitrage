@@ -1,0 +1,1 @@
+Grid-scale battery energy storage arbitrage model, developed for individual coursework at King's College London by Hassan Wahid, 2026. A linear programme (2,880 variables, solved with HiGHS) schedules a 2 MWh battery against UK day-ahead prices, beating a heuristic strategy by 73% profit. A carbon-aware extension cuts emissions 55% for a 3.2% profit cost.
